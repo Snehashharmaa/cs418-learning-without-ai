@@ -66,8 +66,8 @@ All datasets have been successfully downloaded, loaded into Python pandas DataFr
 * **Temporal & Geographic Coverage:** Multi-major academic evaluation tracking 50,000 university students.
 
 ### Secondary Dataset 1: AI Assistant Usage in Student Life
-* **Rows:** [Run `df_s1.shape` in your notebook and copy the row count here]
-* **Columns:** [Copy the column count here]
+* **Rows:** 10,000
+* **Columns:** 11
 * **Unit of Observation:** A single student AI interaction session.
 * **Key Columns & Types:**
   * `SessionID` (`object`): Unique identifier for the interaction session.
