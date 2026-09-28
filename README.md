@@ -89,3 +89,28 @@ All datasets have been successfully downloaded, loaded into Python pandas DataFr
   * `TotalPrompts` (`int64`): Count of prompts sent during the session.
   * `TaskType` (`object`): Category of task (Coding, Writing, Studying).
 * **Temporal & Geographic Coverage:** Synthetic interaction logs across high school, undergraduate, and graduate levels.
+  
+## Secondary Dataset 2: Higher Education Students Performance
+
+**Shape:** 145 rows × 33 columns
+
+### Data Types
+
+| Column | Type |
+|---|---|
+| STUDENT ID | str |
+| 1 – 30 | int64 |
+| COURSE ID | int64 |
+| GRADE | int64 |
+
+### First 5 Rows
+
+| | STUDENT ID | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | ... | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | COURSE ID | GRADE |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 | STUDENT1 | 2 | 2 | 3 | 3 | 1 | 2 | 2 | 1 | 1 | ... | 1 | 1 | 3 | 2 | 1 | 2 | 1 | 1 | 1 | 1 |
+| 1 | STUDENT2 | 2 | 2 | 3 | 3 | 1 | 2 | 2 | 1 | 1 | ... | 1 | 1 | 3 | 2 | 3 | 2 | 2 | 3 | 1 | 1 |
+| 2 | STUDENT3 | 2 | 2 | 2 | 3 | 2 | 2 | 2 | 2 | 4 | ... | 1 | 1 | 2 | 2 | 1 | 1 | 2 | 2 | 1 | 1 |
+| 3 | STUDENT4 | 1 | 1 | 1 | 3 | 1 | 2 | 1 | 2 | 1 | ... | 1 | 2 | 3 | 2 | 2 | 1 | 3 | 2 | 1 | 1 |
+| 4 | STUDENT5 | 2 | 2 | 1 | 3 | 2 | 2 | 1 | 3 | 1 | ... | 2 | 1 | 2 | 2 | 2 | 1 | 2 | 2 | 1 | 1 |
+
+*Pandas truncated columns 10–22 in the preview.*
