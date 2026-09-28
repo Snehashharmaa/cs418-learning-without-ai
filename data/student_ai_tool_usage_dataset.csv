@@ -1,0 +1,202 @@
+timestamp,student_id,ai_tool_used,usage_hours_per_week,purpose,satisfaction_level,academic_performance,comments
+2026/03/12 9:26:36 PM GMT+5,HESC221102007 ,ChatGPT,2,Study,4,Yes,Done
+2026/03/12 9:36:59 PM GMT+5,DSAI 241103043,ChatGPT,12,Coding,4,yes,it is useful and helpful for me
+2026/03/12 9:47:35 PM GMT+5,dsai241103096,ChatGPT,1.5,Study,5,Good ,
+2026/03/12 9:49:26 PM GMT+5,Dsai241103117 ,ChatGPT,3,Study,4,Good,No comments 
+2026/03/12 9:49:58 PM GMT+5,Dsai241103122 ,ChatGPT,Everytime ,Study,4,Good ,Good 
+2026/03/12 9:51:01 PM GMT+5,DSAI241103093,ChatGPT,4 or 6 hours ,Study,3,Good,No
+2026/03/12 9:59:25 PM GMT+5,Dsai241103099 ,ChatGPT,20 hours may be,Study,3,Better,No
+2026/03/12 10:08:42 PM GMT+5,DSAI24113115,ClaudeAi,2-3 hours,Study,4,Good ,
+2026/03/12 10:09:47 PM GMT+5,dsai24110324,ChatGPT,2,Study,4,Good,Good
+2026/03/12 10:31:34 PM GMT+5,dsai241103062,Gemini,5,Study,4,Great ,Great 
+2026/03/12 10:32:02 PM GMT+5,DSAI241103103,ChatGPT,5,Study,2,Good,No
+2026/03/12 10:33:14 PM GMT+5,Dsai241103021,ChatGPT,7 hours,Study,3,Good ,
+2026/03/12 10:33:45 PM GMT+5,DSAI241103084 ,ChatGPT,74,Study,3,Improved ,
+2026/03/12 10:38:28 PM GMT+5,DSAI241103031 ,ChatGPT,10hrs,"ChatGPT is used for many different tasks.",1,Good,No
+2026/03/12 10:41:24 PM GMT+5,DSAI241103006,ChatGPT,21,Study,1,Average ,Nothing 
+2026/03/12 10:53:18 PM GMT+5,DSAi24110351,Copilot,40-50,Study,3,Good ,
+2026/03/12 11:23:43 PM GMT+5,DSAI241103007,ChatGPT,15,Study,2,Average ,.
+2026/03/13 12:01:57 AM GMT+5,DSAI241103056,ChatGPT,8 to 10,Study,1,Best ,Good 
+2026/03/13 5:08:22 AM GMT+5,ahsanchohan540@gmail.com,ChatGPT,Unlimited ,Study,1,Good ,Good
+2026/03/13 5:30:38 AM GMT+5,DSAI241103064,ChatGPT,1 hour,Study,4,Good ,I have no skills about using AI
+2026/03/13 9:56:35 AM GMT+5,DSAI241103083,ChatGPT,2 to 3 hours,Study,3,just satsifed,"nothing
+"
+2026/03/13 11:20:58 AM GMT+5,DsAi241103090,ChatGPT,"4,hours ",Coding,2,Good ,
+2026/03/13 2:34:42 PM GMT+5,DSAI241103017,ChatGPT,25,Coding,5,Good,Useful 
+2026/03/13 3:09:07 PM GMT+5,DSAI241103019 ,ChatGPT,24 h,Study,1,Good,
+2026/03/13 4:09:49 PM GMT+5,Csec241102061 ,ChatGPT,3 Hours ,Study,1,Good,Ok
+2026/03/13 6:48:32 PM GMT+5,csec241102007,Gemini,2-3 hours,Study,5,Good,
+2026/03/13 8:02:02 PM GMT+5,Dsai241103002 ,ChatGPT,2,Study,3,Moderate ,
+2026/03/13 9:55:07 PM GMT+5,HESC221102019,ChatGPT,3 to 4 hours,Study,3,Good ,Best
+2026/03/13 10:00:00 PM GMT+5,23,DeepSeek,14hr,Study,2,Best ,Explaination of everything 
+2026/03/13 10:13:09 PM GMT+5,Usman ghani ,ChatGPT,10,Study,1,Good ,Nothing 
+2026/03/13 10:16:06 PM GMT+5,HESC221102048,Claude,15,Study,5,Good ,
+2026/03/13 10:18:20 PM GMT+5,Arslan ,DeepSeek,2,Study,3,Excellent ,No
+2026/03/14 7:01:40 AM GMT+5,Saliha Waheed ,ChatGPT,Limited in paper otherwise rare,Study,3,Better ,Yes
+2026/03/14 8:17:30 AM GMT+5,ESHA ,ChatGPT,1 hour,Study,4,Good ,Excellent 
+2026-03-14 06:00:00,241103100,deepseek,3,study,3,77,Helpful but sometimes inaccurate
+2026-03-14 12:00:00,241103101,copilot,14,coding,4,72,Very helpful for studying
+2026-03-14 05:00:00,241103102,claude,9,writing,5,72,Good for quick explanations
+2026-03-14 15:00:00,241103103,deepseek,14,research,3,79,Good for quick explanations
+2026-03-14 04:00:00,241103104,deepseek,14,research,3,68,Great tool for coding tasks
+2026-03-14 13:00:00,241103105,claude,1,research,4,88,Good for quick explanations
+2026-03-14 08:00:00,241103106,copilot,2,research,5,90,Saves time while studying
+2026-03-14 18:00:00,241103107,chatgpt,10,writing,5,74,Very helpful for studying
+2026-03-14 09:00:00,241103108,gemini,4,writing,3,71,Very effective for assignments
+2026-03-14 22:00:00,241103109,gemini,3,study,4,67,Good for brainstorming ideas
+2026-03-14 14:00:00,241103110,claude,13,study,5,65,Good for brainstorming ideas
+2026-03-14 05:00:00,241103111,chatgpt,14,study,3,72,Helps me understand difficult topics
+2026-03-14 09:00:00,241103112,chatgpt,6,study,4,82,Very effective for assignments
+2026-03-14 14:00:00,241103113,chatgpt,6,research,5,94,Helpful but sometimes inaccurate
+2026-03-14 17:00:00,241103114,claude,14,coding,3,78,Helpful but sometimes inaccurate
+2026-03-14 07:00:00,241103115,copilot,6,study,3,68,Good for quick explanations
+2026-03-14 14:00:00,241103116,copilot,9,research,5,70,Good for brainstorming ideas
+2026-03-14 15:00:00,241103117,deepseek,11,writing,5,73,Good for brainstorming ideas
+2026-03-14 05:00:00,241103118,gemini,7,writing,4,94,Saves time while studying
+2026-03-14 11:00:00,241103119,deepseek,1,writing,5,62,Very effective for assignments
+2026-03-14 11:00:00,241103120,gemini,7,writing,3,90,Good for brainstorming ideas
+2026-03-14 02:00:00,241103121,chatgpt,13,study,5,64,Saves time while studying
+2026-03-14 18:00:00,241103122,chatgpt,2,coding,3,81,Saves time while studying
+2026-03-14 03:00:00,241103123,gemini,9,writing,4,94,Very helpful for studying
+2026-03-14 12:00:00,241103124,claude,8,coding,3,86,Makes studying easier
+2026-03-14 17:00:00,241103125,deepseek,3,study,4,62,Very helpful for studying
+2026-03-14 09:00:00,241103126,deepseek,12,study,4,74,Very effective for assignments
+2026-03-14 01:00:00,241103127,chatgpt,5,coding,5,76,Very effective for assignments
+2026-03-14 03:00:00,241103128,gemini,14,writing,5,93,Makes studying easier
+2026-03-14 22:00:00,241103129,gemini,8,writing,3,66,Very helpful for studying
+2026-03-14 01:00:00,241103130,gemini,5,research,3,77,Useful for research and learning
+2026-03-14 17:00:00,241103131,deepseek,11,research,3,68,Helpful but sometimes inaccurate
+2026-03-14 10:00:00,241103132,chatgpt,5,writing,5,69,Saves time while studying
+2026-03-14 06:00:00,241103133,chatgpt,7,research,4,60,Saves time while studying
+2026-03-15 00:00:00,241103134,chatgpt,11,study,3,89,Good for brainstorming ideas
+2026-03-14 06:00:00,241103135,gemini,3,research,3,84,Makes studying easier
+2026-03-14 06:00:00,241103136,deepseek,14,coding,3,88,Good for brainstorming ideas
+2026-03-14 13:00:00,241103137,copilot,5,coding,3,62,Great tool for coding tasks
+2026-03-14 03:00:00,241103138,copilot,10,study,5,85,Helps me understand difficult topics
+2026-03-14 20:00:00,241103139,chatgpt,12,research,3,93,Saves time while studying
+2026-03-14 01:00:00,241103140,chatgpt,1,coding,4,85,Great tool for coding tasks
+2026-03-14 11:00:00,241103141,deepseek,13,study,5,83,Useful for research and learning
+2026-03-14 13:00:00,241103142,copilot,8,research,3,89,Very helpful for studying
+2026-03-14 18:00:00,241103143,gemini,13,coding,5,86,Helpful but sometimes inaccurate
+2026-03-14 10:00:00,241103144,chatgpt,10,writing,4,90,Helps me understand difficult topics
+2026-03-14 18:00:00,241103145,copilot,5,study,4,79,Useful for research and learning
+2026-03-14 10:00:00,241103146,chatgpt,12,study,3,69,Helpful but sometimes inaccurate
+2026-03-14 22:00:00,241103147,copilot,7,research,5,69,Very effective for assignments
+2026-03-14 14:00:00,241103148,copilot,12,study,3,94,Great tool for coding tasks
+2026-03-14 16:00:00,241103149,gemini,5,study,3,95,Good for brainstorming ideas
+2026-03-14 08:00:00,241103150,chatgpt,14,study,4,75,Very effective for assignments
+2026-03-14 12:00:00,241103151,deepseek,11,writing,4,95,Helpful but sometimes inaccurate
+2026-03-14 18:00:00,241103152,chatgpt,4,coding,3,66,Makes studying easier
+2026-03-14 11:00:00,241103153,claude,4,coding,5,64,Helpful but sometimes inaccurate
+2026-03-14 18:00:00,241103154,deepseek,8,writing,4,75,Very helpful for studying
+2026-03-14 11:00:00,241103155,gemini,4,writing,4,72,Good for quick explanations
+2026-03-14 04:00:00,241103156,chatgpt,14,coding,3,78,Makes studying easier
+2026-03-14 21:00:00,241103157,chatgpt,12,coding,5,84,Helpful but sometimes inaccurate
+2026-03-14 06:00:00,241103158,gemini,4,research,5,78,Great tool for coding tasks
+2026-03-14 07:00:00,241103159,gemini,10,coding,5,92,Great tool for coding tasks
+2026-03-14 21:00:00,241103160,claude,1,coding,3,78,Good for brainstorming ideas
+2026-03-14 07:00:00,241103161,gemini,7,coding,3,91,Very helpful for studying
+2026-03-14 06:00:00,241103162,deepseek,10,writing,5,62,Good for quick explanations
+2026-03-14 22:00:00,241103163,gemini,2,research,4,75,Very effective for assignments
+2026-03-14 01:00:00,241103164,gemini,7,study,3,80,Useful for research and learning
+2026-03-14 14:00:00,241103165,claude,3,coding,5,75,Great tool for coding tasks
+2026-03-14 22:00:00,241103166,deepseek,8,study,3,83,Makes studying easier
+2026-03-14 19:00:00,241103167,gemini,10,writing,5,76,Great tool for coding tasks
+2026-03-14 15:00:00,241103168,chatgpt,8,research,5,64,Makes studying easier
+2026-03-14 22:00:00,241103169,claude,2,writing,5,60,Useful for research and learning
+2026-03-14 18:00:00,241103170,deepseek,12,coding,4,82,Useful for research and learning
+2026-03-14 15:00:00,241103171,copilot,13,research,4,89,Very helpful for studying
+2026-03-14 10:00:00,241103172,chatgpt,3,study,4,81,Very effective for assignments
+2026-03-14 20:00:00,241103173,copilot,1,writing,5,75,Useful for research and learning
+2026-03-14 07:00:00,241103174,chatgpt,6,coding,3,71,Great tool for coding tasks
+2026-03-14 00:00:00,241103175,claude,5,coding,3,77,Very effective for assignments
+2026-03-14 23:00:00,241103176,deepseek,8,writing,4,64,Helps me understand difficult topics
+2026-03-14 12:00:00,241103177,deepseek,5,writing,3,92,Helpful but sometimes inaccurate
+2026-03-14 19:00:00,241103178,copilot,4,coding,4,91,Helpful but sometimes inaccurate
+2026-03-14 13:00:00,241103179,gemini,4,writing,3,68,Helpful but sometimes inaccurate
+2026-03-14 07:00:00,241103180,claude,10,research,5,88,Makes studying easier
+2026-03-14 19:00:00,241103181,chatgpt,5,writing,3,63,Great tool for coding tasks
+2026-03-14 20:00:00,241103182,copilot,11,writing,5,74,Good for quick explanations
+2026-03-14 08:00:00,241103183,claude,6,study,5,74,Saves time while studying
+2026-03-14 02:00:00,241103184,claude,1,coding,4,82,Very helpful for studying
+2026-03-14 14:00:00,241103185,claude,1,coding,4,75,Helpful but sometimes inaccurate
+2026-03-14 08:00:00,241103186,chatgpt,1,writing,5,68,Helps me understand difficult topics
+2026-03-14 09:00:00,241103187,gemini,1,writing,4,77,Saves time while studying
+2026-03-14 13:00:00,241103188,copilot,1,coding,4,79,Makes studying easier
+2026-03-14 18:00:00,241103189,deepseek,3,study,5,60,Saves time while studying
+2026-03-14 02:00:00,241103190,claude,12,coding,4,91,Very helpful for studying
+2026-03-14 02:00:00,241103191,copilot,8,study,3,75,Helps me understand difficult topics
+2026-03-14 17:00:00,241103192,deepseek,4,writing,3,90,Helps me understand difficult topics
+2026-03-14 19:00:00,241103193,gemini,7,study,3,75,Helps me understand difficult topics
+2026-03-14 13:00:00,241103194,gemini,8,study,4,90,Very effective for assignments
+2026-03-14 03:00:00,241103195,claude,2,research,3,88,Makes studying easier
+2026-03-14 17:00:00,241103196,claude,11,study,3,89,Helpful but sometimes inaccurate
+2026-03-14 14:00:00,241103197,copilot,9,writing,5,92,Very effective for assignments
+2026-03-14 04:00:00,241103198,copilot,13,study,4,83,Makes studying easier
+2026-03-14 17:00:00,241103199,claude,12,research,4,68,Very effective for assignments
+2026-03-14 05:00:00,241103200,gemini,5,writing,5,89,Useful for research and learning
+2026-03-14 07:00:00,241103201,chatgpt,3,study,4,72,Helpful but sometimes inaccurate
+2026-03-14 08:00:00,241103202,chatgpt,3,coding,4,74,Very helpful for studying
+2026-03-14 17:00:00,241103203,copilot,14,research,3,66,Saves time while studying
+2026-03-14 00:00:00,241103204,claude,11,coding,5,60,Great tool for coding tasks
+2026-03-14 08:00:00,241103205,gemini,7,research,4,92,Saves time while studying
+2026-03-14 23:00:00,241103206,deepseek,4,coding,5,61,Very helpful for studying
+2026-03-14 12:00:00,241103207,deepseek,8,research,3,85,Very effective for assignments
+2026-03-14 16:00:00,241103208,claude,10,research,3,82,Very helpful for studying
+2026-03-14 01:00:00,241103209,deepseek,1,research,4,74,Very helpful for studying
+2026-03-14 06:00:00,241103210,gemini,1,study,5,83,Good for brainstorming ideas
+2026-03-14 16:00:00,241103211,chatgpt,5,study,3,85,Helpful but sometimes inaccurate
+2026-03-14 13:00:00,241103212,chatgpt,10,research,3,94,Good for brainstorming ideas
+2026-03-14 00:00:00,241103213,copilot,14,coding,4,73,Great tool for coding tasks
+2026-03-14 07:00:00,241103214,deepseek,6,study,4,69,Great tool for coding tasks
+2026-03-14 13:00:00,241103215,claude,10,study,3,67,Saves time while studying
+2026-03-14 19:00:00,241103216,deepseek,11,research,4,80,Good for quick explanations
+2026-03-14 08:00:00,241103217,copilot,2,writing,4,81,Great tool for coding tasks
+2026-03-14 18:00:00,241103218,claude,5,coding,5,77,Great tool for coding tasks
+2026-03-14 22:00:00,241103219,deepseek,12,study,3,61,Very effective for assignments
+2026-03-14 00:00:00,241103220,gemini,14,study,5,78,Useful for research and learning
+2026-03-14 12:00:00,241103221,claude,13,writing,3,65,Helpful but sometimes inaccurate
+2026-03-14 16:00:00,241103222,copilot,14,study,5,81,Good for quick explanations
+2026-03-14 16:00:00,241103223,deepseek,9,coding,5,86,Great tool for coding tasks
+2026-03-14 00:00:00,241103224,claude,9,study,4,88,Useful for research and learning
+2026-03-14 22:00:00,241103225,deepseek,10,study,3,68,Saves time while studying
+2026-03-14 18:00:00,241103226,chatgpt,14,research,3,66,Helpful but sometimes inaccurate
+2026-03-14 11:00:00,241103227,claude,7,research,5,68,Very helpful for studying
+2026-03-14 16:00:00,241103228,claude,10,study,4,63,Good for brainstorming ideas
+2026-03-14 17:00:00,241103229,copilot,7,study,4,95,Useful for research and learning
+2026-03-14 18:00:00,241103230,chatgpt,14,coding,3,91,Good for quick explanations
+2026-03-14 01:00:00,241103231,copilot,13,study,3,93,Good for quick explanations
+2026-03-14 14:00:00,241103232,claude,11,writing,4,79,Helps me understand difficult topics
+2026-03-15 00:00:00,241103233,copilot,4,coding,3,80,Good for quick explanations
+2026-03-14 12:00:00,241103234,deepseek,13,research,4,76,Good for quick explanations
+2026-03-14 22:00:00,241103235,copilot,7,research,3,68,Useful for research and learning
+2026-03-14 03:00:00,241103236,deepseek,2,writing,4,62,Great tool for coding tasks
+2026-03-14 17:00:00,241103237,copilot,4,writing,3,69,Good for quick explanations
+2026-03-14 15:00:00,241103238,copilot,3,coding,3,88,Very helpful for studying
+2026-03-14 09:00:00,241103239,chatgpt,1,coding,5,61,Saves time while studying
+2026-03-14 19:00:00,241103240,chatgpt,6,study,5,62,Helpful but sometimes inaccurate
+2026-03-14 14:00:00,241103241,claude,6,study,3,93,Very helpful for studying
+2026-03-14 10:00:00,241103242,gemini,14,writing,5,94,Saves time while studying
+2026-03-14 10:00:00,241103243,chatgpt,14,writing,5,82,Makes studying easier
+2026-03-14 03:00:00,241103244,claude,11,writing,4,83,Helps me understand difficult topics
+2026-03-14 13:00:00,241103245,gemini,1,writing,3,72,Helpful but sometimes inaccurate
+2026-03-14 18:00:00,241103246,chatgpt,12,study,5,88,Saves time while studying
+2026-03-14 00:00:00,241103247,deepseek,10,study,4,93,Useful for research and learning
+2026-03-14 11:00:00,241103248,claude,4,research,3,61,Saves time while studying
+2026-03-14 07:00:00,241103249,gemini,4,study,4,92,Helpful but sometimes inaccurate
+2026-03-15 00:00:00,241103250,claude,9,research,4,66,Useful for research and learning
+2026-03-14 10:00:00,241103251,chatgpt,14,study,5,83,Helps me understand difficult topics
+2026-03-14 04:00:00,241103252,claude,2,study,4,71,Very helpful for studying
+2026-03-14 23:00:00,241103253,chatgpt,2,study,3,70,Good for brainstorming ideas
+2026-03-15 00:00:00,241103254,claude,12,writing,4,76,Good for quick explanations
+2026-03-14 11:00:00,241103255,claude,4,study,5,85,Very effective for assignments
+2026-03-14 07:00:00,241103256,copilot,3,writing,3,75,Helps me understand difficult topics
+2026-03-14 18:00:00,241103257,chatgpt,11,research,4,71,Very effective for assignments
+2026-03-14 07:00:00,241103258,copilot,5,study,5,60,Good for quick explanations
+2026-03-14 18:00:00,241103259,gemini,2,writing,5,61,Very effective for assignments
+2026-03-14 11:00:00,241103260,claude,8,writing,4,83,Saves time while studying
+2026-03-14 00:00:00,241103261,chatgpt,12,writing,4,78,Helpful but sometimes inaccurate
+2026-03-14 00:00:00,241103262,gemini,12,research,3,92,Helpful but sometimes inaccurate
+2026-03-14 00:00:00,241103263,claude,8,coding,3,71,Useful for research and learning
+2026-03-14 12:00:00,241103264,claude,3,research,3,63,Helps me understand difficult topics
+2026-03-14 21:00:00,241103265,gemini,3,research,5,77,Helpful but sometimes inaccurate
