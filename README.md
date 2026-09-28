@@ -1,6 +1,6 @@
 # cs418-learning-without-ai
 Group Name: Learning With(out) AI  
-Group Members: Sneha Sharma, Honey Patel, Mahi PatelR
+Group Members: Sneha Sharma, Honey Patel, Mahi Patel
 
 ## 1. Group Research Questions
 
