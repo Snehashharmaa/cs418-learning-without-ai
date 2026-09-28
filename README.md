@@ -1,6 +1,6 @@
 # cs418-learning-without-ai
 Group Name: Learning With(out) AI  
-Group Members: Sneha Sharma, Honey Patel, Mahi PatelR
+Group Members: Sneha Sharma, Honey Patel, Mahi Patel
 
 ## 1. Group Research Questions
 
@@ -27,9 +27,23 @@ Group Members: Sneha Sharma, Honey Patel, Mahi PatelR
    * **Source / Link:** Kaggle Open Datasets
    * **Join / Comparison Plan:** We will analyze session-level granular details (prompt counts, session lengths, task types) to compare interaction complexity against the high-level GPA outcomes in our primary datasets.
 
-2. **[CS 418 Pre-Curated Course Performance Dataset](https://dodatascience.fun/datasets/)**
-   * **Source / Link:** CS 418 Course Datasets
-   * **Join / Comparison Plan:** We will use historical course grade distributions to establish a pre-AI baseline for student performance across STEM majors.
+2. ### Secondary Dataset 2: Higher Education Students Performance
+
+**Source:** UCI Machine Learning Repository – Higher Education Students Performance Evaluation(https://archive.ics.uci.edu/dataset/856/higher+education+students+performance+evaluation?utm_source=chatgpt.com)
+
+**Dataset:** data/higher_education_students_performance.csv
+
+**Purpose:** This dataset provides student-level information about higher education students' characteristics, course-related responses, and academic performance. It will be used as a traditional academic-performance comparison dataset alongside the AI-focused datasets.
+
+**Row meaning:** Each row represents one student enrolled in a course.
+
+**Key columns:**
+- `STUDENT ID` – unique identifier for each student
+- `1`–`30` – questionnaire/feature variables describing student responses
+- `COURSE ID` – course identifier
+- `GRADE` – student's course grade
+
+**How it supports our research:** This dataset provides a non-AI-focused student performance dataset that can be used to examine relationships between student characteristics/study-related factors and academic performance. We can compare its academic-performance patterns with the AI-focused datasets without assuming that the datasets contain identical variables.
 
 
 
