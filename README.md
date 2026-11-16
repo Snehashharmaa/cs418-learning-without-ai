@@ -2,6 +2,26 @@
 Group Name: Learning With(out) AI  
 Group Members: Sneha Sharma, Honey Patel, Mahi Patel, Viet Ho
 
+## Main Findings (Narrative Analysis)
+
+### Finding 1: Weekly AI Usage Has Almost No Linear Relationship with GPA Change
+
+In the AI Student Impact dataset (50,000 student records), the correlation between weekly generative AI usage hours and GPA change is approximately **-0.05**. This indicates an extremely weak negative linear relationship, meaning that students who spend more time using AI do not consistently experience either greater or smaller GPA improvements. Tool diversity also has a very weak relationship with GPA change (**r = 0.08**). The scatterplot shows substantial variation and no clear linear pattern. These results suggest that AI usage hours alone are not a strong indicator of GPA change in this dataset.
+
+![Weekly AI hours versus GPA change](diagrams/ai-hours-vs-gpa-change.png)
+
+### Finding 2: Traditional Study Hours Have a Stronger Positive Relationship with GPA Change Than AI Usage Hours
+
+The correlation between traditional study hours and GPA change is approximately **0.38**, indicating a moderate positive relationship. Students who spend more time studying without AI assistance tend to show greater GPA improvements. Although the scatterplot contains considerable variation, its overall pattern is more positive than the relationship between AI usage hours and GPA change. This suggests that traditional study time may be more closely associated with GPA improvement in this dataset. However, correlation does not establish that additional study hours directly cause GPA to increase.
+
+![Traditional study hours versus GPA change](diagrams/traditional-study-hours-vs-gpa-change.png)
+
+### Finding 3: Students Generally Report Positive Satisfaction with AI Tools
+
+In the Student AI Tool Usage survey (200 responses), the average satisfaction rating is **3.77 out of 5**. A total of **117 students (58.5%)** gave a satisfaction rating of 4 or 5, while only 11 students gave a rating of 1 or 2. This indicates that responses were generally neutral to positive, with more students reporting high satisfaction than low satisfaction. The distribution provides an overview of students' experiences, but it does not by itself establish whether satisfaction differs across AI task types.
+
+![Distribution of student satisfaction ratings](diagrams/satisfaction-distribution.png)
+
 ## 1. Group Research Questions
 
 * **Primary Question:** How does student reliance on Generative AI tools (e.g., weekly usage hours and tool diversity) correlate with changes in academic performance (pre-semester vs. post-semester GPA)?
